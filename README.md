@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/bobivpn/assets/main/banner.png" alt="BobiVPN Banner" width="100%" />
+  <img src="https://github.com/ginolrewadsb11/studious-umbrella/raw/main/banner.png" alt="BobiVPN Banner" width="100%" />
 
   <h1>🦊 BobiVPN Checker (Go Edition) 🦊</h1>
 
