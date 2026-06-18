@@ -1,0 +1,48 @@
+name: VPN Checker (Go + Xray-core)
+
+on:
+  schedule:
+    - cron: '0 */3 * * *'  # Каждые 3 часа
+  workflow_dispatch:         # Ручной запуск
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Go
+        uses: actions/setup-go@v5
+        with:
+          go-version: '1.24.x'  # latest stable; 1.26.4 not yet released on runners
+          cache: true
+
+      - name: Install TUN dependencies
+        run: |
+          sudo apt-get install -y iproute2
+
+      - name: Run VPN Checker
+        env:
+          SUBSCRIPTION_URLS: ${{ secrets.SUBSCRIPTION_URLS }}
+        run: |
+          chmod +x scripts/vpn_checker_bin
+          sudo ./scripts/vpn_checker_bin \
+            --concurrency-stage1=1000 \
+            --concurrency-stage2=50
+
+      - name: Commit results
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+
+          git add vpn.txt vpn_renamed.txt vpn_base64.txt vpn_renamed_base64.txt 2>/dev/null || true
+          git add bobi_vpn.txt bobi_vpn_base64.txt bobi_vpn_lite.txt 2>/dev/null || true
+          git add vpn_report.json 2>/dev/null || true
+          git add countries/ 2>/dev/null || true
+
+          git diff --staged --quiet || git commit -m "🔄 Auto-update VPN keys [$(date +'%Y-%m-%d %H:%M')]"
+          git push || echo "Nothing to push"
