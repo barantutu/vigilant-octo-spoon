@@ -3,6 +3,5 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HsvCfh6kgQm9iaVZQTiDigJQgTW9sZG92YQrimqEgMiDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
-vless://4537cd6f-cc09-4c79-86b4-30918c210f24@alex-md-01.live:8443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=rbc.ru&pbk=NtsJnsHr8a9mPDr0SPxdJlSRbdUVmR_-Rq5RVT-3KzA&sid=51495959c262c442&fp=firefox#🇲🇩 Moldova | Alexhost SRL 1
-vless://4537cd6f-cc09-4c79-86b4-30918c210f24@alex-md-01.live:8443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=rbc.ru&pbk=NtsJnsHr8a9mPDr0SPxdJlSRbdUVmR_-Rq5RVT-3KzA&sid=51495959c262c442&fp=firefox#🇲🇩 Moldova | Alexhost SRL 2
+#announce: base64:8J+HsvCfh6kgQm9iaVZQTiDigJQgTW9sZG92YQrimqEgMSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+vless://5e1083b9-4d4f-50ef-93e7-6e966dfce1f9@moldova.cloudpath.live:443?type=tcp&security=reality&sni=microsoft.com&pbk=VpnAwVKmMB2fo3qQqW88GOA9tsh-npOibgZ1FSxlTlE&sid=f8cf8908&fp=chrome&mux=true&muxConcurrency=8&fragment=100-200,10-20,tlshello#🇲🇩 Moldova | Alexhost SRL 1

@@ -3,24 +3,99 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HpvCfh7IgQm9iaVZQTiDigJQgQXJtZW5pYQrimqEgMjAg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
-vless://f667a096-5231-4cfb-8759-92bb32473139@77.91.68.70:55983/?type=tcp&encryption=none&flow=&sni=yahoo.com&security=reality&pbk=nWQ7b9l9X6N3PrXLgIzOvMM8iSYrqjVHEb9ikWxqYSg&sid=0e#🇦🇲 Armenia | 365.partners INC 1
-vless://f667a096-5231-4cfb-8759-92bb32473139@77.91.68.70:55983?encryption=none&fp=chrome&pbk=nWQ7b9l9X6N3PrXLgIzOvMM8iSYrqjVHEb9ikWxqYSg&security=reality&sid=0e&sni=yahoo.com&type=tcp#🇦🇲 Armenia | 365.partners INC 2
+#announce: base64:8J+HpvCfh7IgQm9iaVZQTiDigJQgQXJtZW5pYQrimqEgOTUg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
+vless://f667a096-5231-4cfb-8759-92bb32473139@77.91.68.70:55983?security=reality&encryption=none&pbk=nWQ7b9l9X6N3PrXLgIzOvMM8iSYrqjVHEb9ikWxqYSg&headerType=none&fp=chrome&spx=/@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-?ed=2560&type=tcp&sni=yahoo.com&sid=0e#🇦🇲 Armenia | 365.partners INC 1
+vless://f667a096-5231-4cfb-8759-92bb32473139@77.91.68.70:55983/?type=tcp&encryption=none&flow=&sni=yahoo.com&security=reality&pbk=nWQ7b9l9X6N3PrXLgIzOvMM8iSYrqjVHEb9ikWxqYSg&sid=0e#🇦🇲 Armenia | 365.partners INC 2
 vless://f667a096-5231-4cfb-8759-92bb32473139@77.91.68.70:55983?encryption=none&fp=chrome&pbk=nWQ7b9l9X6N3PrXLgIzOvMM8iSYrqjVHEb9ikWxqYSg&security=reality&sid=0e&sni=yahoo.com&type=tcp#🌐 [AS198178] 365.partners INC #🇦🇲 Armenia | 365.partners INC 3
-vless://f667a096-5231-4cfb-8759-92bb32473139@77.91.68.70:55983?security=reality&encryption=none&pbk=nWQ7b9l9X6N3PrXLgIzOvMM8iSYrqjVHEb9ikWxqYSg&headerType=none&fp=chrome&spx=/@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-?ed=2560&type=tcp&sni=yahoo.com&sid=0e#🇦🇲 Armenia | 365.partners INC 4
+vless://f667a096-5231-4cfb-8759-92bb32473139@77.91.68.70:55983?encryption=none&fp=chrome&pbk=nWQ7b9l9X6N3PrXLgIzOvMM8iSYrqjVHEb9ikWxqYSg&security=reality&sid=0e&sni=yahoo.com&type=tcp#🇦🇲 Armenia | 365.partners INC 4
 vless://f667a096-5231-4cfb-8759-92bb32473139@77.91.68.70:55983?encryption=none&fp=chrome&pbk=nWQ7b9l9X6N3PrXLgIzOvMM8iSYrqjVHEb9ikWxqYSg&security=reality&sid=0e&sni=yahoo.com&type=tcp#🌐 [AS198178] 365.partners INC #🇦🇲 Armenia | 365.partners INC 5
-vless://21db6b31-6e8b-4307-9127-994c99606e15@85.90.207.152:23009?encryption=none&security=none&type=tcp&headerType=none#🇦🇲 Armenia | G-Core Labs S.A 1
-vless://21db6b31-6e8b-4307-9127-994c99606e15@85.90.207.152:23009?security=none&encryption=none&headerType=none&type=tcp#🇦🇲 Armenia | G-Core Labs S.A 2
-vless://21db6b31-6e8b-4307-9127-994c99606e15@85.90.207.152:23009?security=none&encryption=none&headerType=none&type=tcp&freeinternet=kizyak_vpn1782154419281#🇦🇲 Armenia | G-Core Labs S.A 3
-vless://21db6b31-6e8b-4307-9127-994c99606e15@85.90.207.152:23009?security=none&encryption=none&headerType=none&type=tcp#🇦🇲 Armenia | G-Core Labs S.A 4
-vless://21db6b31-6e8b-4307-9127-994c99606e15@85.90.207.152:23009?security=none&encryption=none&headerType=none&type=tcp#🇦🇲 Armenia | G-Core Labs S.A 5
-vless://21db6b31-6e8b-4307-9127-994c99606e15@85.90.207.152:23009?security=none&encryption=none&headerType=none&type=tcp#🇦🇲 Armenia | G-Core Labs S.A 6
-vless://21db6b31-6e8b-4307-9127-994c99606e15@85.90.207.152:23009?encryption=none&security=none&type=tcp&headerType=none#🇦🇲 Armenia | G-Core Labs S.A 7
-vless://21db6b31-6e8b-4307-9127-994c99606e15@85.90.207.152:23009?security=none&type=tcp&encryption=none&headerType=none#🇦🇲 Armenia | G-Core Labs S.A 8
-vless://21db6b31-6e8b-4307-9127-994c99606e15@85.90.207.152:23009?encryption=none&security=none&type=tcp&headerType=none#🇦🇲 Armenia | G-Core Labs S.A 9
-vless://21db6b31-6e8b-4307-9127-994c99606e15@85.90.207.152:23009?security=none&encryption=none&headerType=none&type=tcp#🇦🇲 Armenia | G-Core Labs S.A 10
-vless://21db6b31-6e8b-4307-9127-994c99606e15@85.90.207.152:23009?security=none&encryption=none&headerType=none&type=tcp#🇦🇲 Armenia | G-Core Labs S.A 11
-vless://21db6b31-6e8b-4307-9127-994c99606e15@85.90.207.152:23009?security=none&encryption=none&headerType=none&type=tcp#🇦🇲 Armenia | G-Core Labs S.A 12
-vless://21db6b31-6e8b-4307-9127-994c99606e15@85.90.207.152:23009?security=none&encryption=none&headerType=none&type=tcp#🇦🇲 Armenia | G-Core Labs S.A 13
-vless://21db6b31-6e8b-4307-9127-994c99606e15@85.90.207.152:23009?security=none&encryption=none&headerType=none&type=tcp#🇦🇲 Armenia | G-Core Labs S.A 14
-vless://21db6b31-6e8b-4307-9127-994c99606e15@85.90.207.152:23009?encryption=none&security=none&type=tcp&headerType=none#🇦🇲 Armenia | G-Core Labs S.A 15
+vless://21db6b31-6e8b-4307-9127-994c99606e15@85.90.207.152:23009?_t=6f376f9a&security=none&type=tcp#🇦🇲 Armenia | G-Core Labs S.A 1
+vless://21db6b31-6e8b-4307-9127-994c99606e15@85.90.207.152:23009?type=tcp&security=none&encryption=none&descriptions=812#🇦🇲 Armenia | G-Core Labs S.A 2
+vless://21db6b31-6e8b-4307-9127-994c99606e15@85.90.207.152:23009?headertype=none&security=none&telegram=%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad&type=tcp#🇦🇲 Armenia | G-Core Labs S.A 3
+vless://21db6b31-6e8b-4307-9127-994c99606e15@85.90.207.152:23009?freeinternet=kizyak_vpn1781927583333&security=none&type=tcp#🇦🇲 Armenia | G-Core Labs S.A 4
+vless://21db6b31-6e8b-4307-9127-994c99606e15@85.90.207.152:23009?_t=a9329de5&security=none&type=tcp#🇦🇲 Armenia | G-Core Labs S.A 5
+vless://21db6b31-6e8b-4307-9127-994c99606e15@85.90.207.152:23009?type=tcp&security=none&fp=firefox#🇦🇲 Armenia | G-Core Labs S.A 6
+vless://21db6b31-6e8b-4307-9127-994c99606e15@85.90.207.152:23009?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&type=tcp&security=none&encryption=none&_t=85ddae66#🇦🇲 Armenia | G-Core Labs S.A 7
+vless://21db6b31-6e8b-4307-9127-994c99606e15@85.90.207.152:23009?type=tcp&security=none&encryption=none&burmalda=75b7e366#🇦🇲 Armenia | G-Core Labs S.A 8
+vless://21db6b31-6e8b-4307-9127-994c99606e15@85.90.207.152:23009?descriptions=544&security=none&type=tcp#🇦🇲 Armenia | G-Core Labs S.A 9
+vless://21db6b31-6e8b-4307-9127-994c99606e15@85.90.207.152:23009?freeinternet=kizyak_vpn17820079923&security=none&type=tcp#🇦🇲 Armenia | G-Core Labs S.A 10
+vless://21db6b31-6e8b-4307-9127-994c99606e15@85.90.207.152:23009?packetencoding=xudp&security=none&telegram=%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad&type=tcp#🇦🇲 Armenia | G-Core Labs S.A 11
+vless://21db6b31-6e8b-4307-9127-994c99606e15@85.90.207.152:23009?freeinternet=kizyak_vpn1782018084524&security=none&type=tcp#🇦🇲 Armenia | G-Core Labs S.A 12
+vless://21db6b31-6e8b-4307-9127-994c99606e15@85.90.207.152:23009?security=none&telegram=%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad&type=tcp#🇦🇲 Armenia | G-Core Labs S.A 13
+vless://21db6b31-6e8b-4307-9127-994c99606e15@85.90.207.152:23009?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=none&encryption=none&headerType=none&type=tcp#🇦🇲 Armenia | G-Core Labs S.A 14
+vless://21db6b31-6e8b-4307-9127-994c99606e15@85.90.207.152:23009?encryption=none&security=none&type=tcp#🇦🇲 Armenia | G-Core Labs S.A 15
+vless://21db6b31-6e8b-4307-9127-994c99606e15@85.90.207.152:23009?descriptions=_5128bf&security=none&type=tcp#🇦🇲 Armenia | G-Core Labs S.A 16
+vless://21db6b31-6e8b-4307-9127-994c99606e15@85.90.207.152:23009?freeinternet=kizyak_vpn1781927566705&security=none&type=tcp#🇦🇲 Armenia | G-Core Labs S.A 17
+vless://21db6b31-6e8b-4307-9127-994c99606e15@85.90.207.152:23009?type=tcp&security=none&encryption=none&_t=771991d1#🇦🇲 Armenia | G-Core Labs S.A 18
+vless://21db6b31-6e8b-4307-9127-994c99606e15@85.90.207.152:23009?nonce=uMxBCjmo&security=none&type=tcp#🇦🇲 Armenia | G-Core Labs S.A 19
+vless://21db6b31-6e8b-4307-9127-994c99606e15@85.90.207.152:23009?security=none&encryption=none&headerType=none&type=tcp&burmalda=e459dc52#🇦🇲 Armenia | G-Core Labs S.A 20
+vless://21db6b31-6e8b-4307-9127-994c99606e15@85.90.207.152:23009?type=tcp&security=none&encryption=none&__rand=e9039a8b#🇦🇲 Armenia | G-Core Labs S.A 21
+vless://21db6b31-6e8b-4307-9127-994c99606e15@85.90.207.152:23009?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&type=tcp&security=none&encryption=none&packetencoding=xudp#🇦🇲 Armenia | G-Core Labs S.A 22
+vless://21db6b31-6e8b-4307-9127-994c99606e15@85.90.207.152:23009?type=tcp#🇦🇲 Armenia | G-Core Labs S.A 23
+vless://21db6b31-6e8b-4307-9127-994c99606e15@85.90.207.152:23009?security=none&encryption=none&headerType=none&type=tcp#🇦🇲 Armenia | G-Core Labs S.A 24
+vless://21db6b31-6e8b-4307-9127-994c99606e15@85.90.207.152:23009?type=tcp&security=none&encryption=none&descriptions=377#🇦🇲 Armenia | G-Core Labs S.A 25
+vless://21db6b31-6e8b-4307-9127-994c99606e15@85.90.207.152:23009?_t=88b0df2b&security=none&type=tcp#🇦🇲 Armenia | G-Core Labs S.A 26
+vless://21db6b31-6e8b-4307-9127-994c99606e15@85.90.207.152:23009?security=none&encryption=none&headerType=none&type=tcp#🇦🇲 Armenia | G-Core Labs S.A 27
+vless://21db6b31-6e8b-4307-9127-994c99606e15@85.90.207.152:23009?packetencoding=xudp&security=none&type=tcp#🇦🇲 Armenia | G-Core Labs S.A 28
+vless://21db6b31-6e8b-4307-9127-994c99606e15@85.90.207.152:23009?security=none&type=tcp&packetEncoding=xudp&encryption=none#🇦🇲 Armenia | G-Core Labs S.A 29
+vless://21db6b31-6e8b-4307-9127-994c99606e15@85.90.207.152:23009?type=tcp&security=none&encryption=none&_t=85ddae66#🇦🇲 Armenia | G-Core Labs S.A 30
+vless://21db6b31-6e8b-4307-9127-994c99606e15@85.90.207.152:23009?descriptions=&security=none&type=tcp#🇦🇲 Armenia | G-Core Labs S.A 31
+vless://21db6b31-6e8b-4307-9127-994c99606e15@85.90.207.152:23009?encryption=none&security=none&type=tcp&headerType=none#🇦🇲 Armenia | G-Core Labs S.A 32
+vless://21db6b31-6e8b-4307-9127-994c99606e15@85.90.207.152:23009?security=none&encryption=none&headerType=none&type=tcp#🇦🇲 Armenia | G-Core Labs S.A 33
+vless://21db6b31-6e8b-4307-9127-994c99606e15@85.90.207.152:23009?_t=92266bca&security=none&type=tcp#🇦🇲 Armenia | G-Core Labs S.A 34
+vless://21db6b31-6e8b-4307-9127-994c99606e15@85.90.207.152:23009?freeinternet=kizyak_vpn1781927583922&security=none&type=tcp#🇦🇲 Armenia | G-Core Labs S.A 35
+vless://21db6b31-6e8b-4307-9127-994c99606e15@85.90.207.152:23009?security=none&encryption=none&headerType=none&type=tcp#🇦🇲 Armenia | G-Core Labs S.A 36
+vless://21db6b31-6e8b-4307-9127-994c99606e15@85.90.207.152:23009?headerType=none&type=tcp&security=none&encryption=none&nonce=9UrIGo0j#🇦🇲 Armenia | G-Core Labs S.A 37
+vless://21db6b31-6e8b-4307-9127-994c99606e15@85.90.207.152:23009?encryption=none&security=none&type=tcp&headerType=none#🇦🇲 Armenia | G-Core Labs S.A 38
+vless://21db6b31-6e8b-4307-9127-994c99606e15@85.90.207.152:23009?__rand=e9039a8b&security=none&type=tcp#🇦🇲 Armenia | G-Core Labs S.A 39
+vless://21db6b31-6e8b-4307-9127-994c99606e15@85.90.207.152:23009?descriptions=_4b715e&security=none&type=tcp#🇦🇲 Armenia | G-Core Labs S.A 40
+vless://21db6b31-6e8b-4307-9127-994c99606e15@85.90.207.152:23009?type=tcp&security=none&encryption=none&headerType=none&_t=32710189#🇦🇲 Armenia | G-Core Labs S.A 41
+vless://21db6b31-6e8b-4307-9127-994c99606e15@85.90.207.152:23009?descriptions=812&security=none&type=tcp#🇦🇲 Armenia | G-Core Labs S.A 42
+vless://21db6b31-6e8b-4307-9127-994c99606e15@85.90.207.152:23009?headertype=none&security=none&seq=you_are_beautiful0374&type=tcp#🇦🇲 Armenia | G-Core Labs S.A 43
+vless://21db6b31-6e8b-4307-9127-994c99606e15@85.90.207.152:23009?encryption=none&security=none&type=tcp&headerType=none#🇦🇲 Armenia | G-Core Labs S.A 44
+vless://21db6b31-6e8b-4307-9127-994c99606e15@85.90.207.152:23009?descriptions=560&security=none&type=tcp#🇦🇲 Armenia | G-Core Labs S.A 45
+vless://21db6b31-6e8b-4307-9127-994c99606e15@85.90.207.152:23009?freeinternet=kizyak_vpn1782154419281&headertype=none&security=none&type=tcp#🇦🇲 Armenia | G-Core Labs S.A 46
+vless://21db6b31-6e8b-4307-9127-994c99606e15@85.90.207.152:23009?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=none&encryption=none&headerType=none&type=tcp#🇦🇲 Armenia | G-Core Labs S.A 47
+vless://21db6b31-6e8b-4307-9127-994c99606e15@85.90.207.152:23009?_t=85ddae66&security=none&telegram=%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad&type=tcp#🇦🇲 Armenia | G-Core Labs S.A 48
+vless://21db6b31-6e8b-4307-9127-994c99606e15@85.90.207.152:23009?type=tcp&security=none&encryption=none&_t=da90081c#🇦🇲 Armenia | G-Core Labs S.A 49
+vless://21db6b31-6e8b-4307-9127-994c99606e15@85.90.207.152:23009?nonce=ktxKq7S7&security=none&type=tcp#🇦🇲 Armenia | G-Core Labs S.A 50
+vless://21db6b31-6e8b-4307-9127-994c99606e15@85.90.207.152:23009?type=tcp&security=none&encryption=none&_t=88b0df2b#🇦🇲 Armenia | G-Core Labs S.A 51
+vless://21db6b31-6e8b-4307-9127-994c99606e15@85.90.207.152:23009?type=tcp&security=none&encryption=none&descriptions=544#🇦🇲 Armenia | G-Core Labs S.A 52
+vless://21db6b31-6e8b-4307-9127-994c99606e15@85.90.207.152:23009?type=tcp&security=none&encryption=none&__rand=5bd3371d#🇦🇲 Armenia | G-Core Labs S.A 53
+vless://21db6b31-6e8b-4307-9127-994c99606e15@85.90.207.152:23009?headertype=none&security=none&type=tcp#🇦🇲 Armenia | G-Core Labs S.A 54
+vless://21db6b31-6e8b-4307-9127-994c99606e15@85.90.207.152:23009?type=tcp&security=none&encryption=none&descriptions=_5128bf#🇦🇲 Armenia | G-Core Labs S.A 55
+vless://21db6b31-6e8b-4307-9127-994c99606e15@85.90.207.152:23009?__rand=5bd3371d&security=none&type=tcp#🇦🇲 Armenia | G-Core Labs S.A 56
+vless://21db6b31-6e8b-4307-9127-994c99606e15@85.90.207.152:23009?security=none&encryption=none&headerType=none&type=tcp#🇦🇲 Armenia | G-Core Labs S.A 57
+vless://21db6b31-6e8b-4307-9127-994c99606e15@85.90.207.152:23009?_t=da90081c&security=none&type=tcp#🇦🇲 Armenia | G-Core Labs S.A 58
+vless://21db6b31-6e8b-4307-9127-994c99606e15@85.90.207.152:23009?encryption=none&security=none&type=tcp#🇦🇲 Armenia | G-Core Labs S.A 59
+vless://21db6b31-6e8b-4307-9127-994c99606e15@85.90.207.152:23009?security=none&encryption=none&headerType=none&type=tcp#🇦🇲 Armenia | G-Core Labs S.A 60
+vless://21db6b31-6e8b-4307-9127-994c99606e15@85.90.207.152:23009?type=tcp&security=none&encryption=none&freeinternet=kizyak_vpn17820079923#🇦🇲 Armenia | G-Core Labs S.A 61
+vless://21db6b31-6e8b-4307-9127-994c99606e15@85.90.207.152:23009?type=tcp&security=none&encryption=none&freeinternet=kizyak_vpn1781927583922#🇦🇲 Armenia | G-Core Labs S.A 62
+vless://21db6b31-6e8b-4307-9127-994c99606e15@85.90.207.152:23009?security=none&seq=you_are_beautiful0374&type=tcp#🇦🇲 Armenia | G-Core Labs S.A 63
+vless://21db6b31-6e8b-4307-9127-994c99606e15@85.90.207.152:23009?type=tcp&security=none&encryption=none&descriptions=560#🇦🇲 Armenia | G-Core Labs S.A 64
+vless://21db6b31-6e8b-4307-9127-994c99606e15@85.90.207.152:23009?security=none&encryption=none&headerType=none&type=tcp#🇦🇲 Armenia | G-Core Labs S.A 65
+vless://21db6b31-6e8b-4307-9127-994c99606e15@85.90.207.152:23009?type=tcp&security=none&encryption=none&descriptions=#🇦🇲 Armenia | G-Core Labs S.A 66
+vless://21db6b31-6e8b-4307-9127-994c99606e15@85.90.207.152:23009?security=none&type=tcp#🇦🇲 Armenia | G-Core Labs S.A 67
+vless://21db6b31-6e8b-4307-9127-994c99606e15@85.90.207.152:23009?security=none&encryption=none&headerType=none&type=tcp#🇦🇲 Armenia | G-Core Labs S.A 68
+vless://21db6b31-6e8b-4307-9127-994c99606e15@85.90.207.152:23009?encryption=none&security=none&type=tcp#🇦🇲 Armenia | G-Core Labs S.A 69
+vless://21db6b31-6e8b-4307-9127-994c99606e15@85.90.207.152:23009?type=tcp&security=none&encryption=none&nonce=DkYUKZ2H#🇦🇲 Armenia | G-Core Labs S.A 70
+vless://21db6b31-6e8b-4307-9127-994c99606e15@85.90.207.152:23009?encryption=none&security=none&type=tcp&headerType=none#🇦🇲 Armenia | G-Core Labs S.A 71
+vless://21db6b31-6e8b-4307-9127-994c99606e15@85.90.207.152:23009?type=tcp&security=none&encryption=none&packetencoding=xudp#🇦🇲 Armenia | G-Core Labs S.A 72
+vless://21db6b31-6e8b-4307-9127-994c99606e15@85.90.207.152:23009?freeinternet=kizyak_vpn1781927583333&security=none&telegram=%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad&type=tcp#🇦🇲 Armenia | G-Core Labs S.A 73
+vless://21db6b31-6e8b-4307-9127-994c99606e15@85.90.207.152:23009?descriptions=%D0%A1%D0%B2%D0%BE%D0%B1%D0%BE%D0%B4%D1%83%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82%D1%83379&headertype=none&security=none&type=tcp#🇦🇲 Armenia | G-Core Labs S.A 74
+vless://21db6b31-6e8b-4307-9127-994c99606e15@85.90.207.152:23009?type=tcp&security=none&encryption=none&descriptions=_4b715e#🇦🇲 Armenia | G-Core Labs S.A 75
+vless://21db6b31-6e8b-4307-9127-994c99606e15@85.90.207.152:23009?freeinternet=kizyak_vpn1782154419365&headertype=none&security=none&type=tcp#🇦🇲 Armenia | G-Core Labs S.A 76
+vless://21db6b31-6e8b-4307-9127-994c99606e15@85.90.207.152:23009?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&type=tcp&security=none&encryption=none&freeinternet=kizyak_vpn1781927583333#🇦🇲 Armenia | G-Core Labs S.A 77
+vless://21db6b31-6e8b-4307-9127-994c99606e15@85.90.207.152:23009?type=tcp&security=none&encryption=none&freeinternet=kizyak_vpn1781927583333#🇦🇲 Armenia | G-Core Labs S.A 78
+vless://21db6b31-6e8b-4307-9127-994c99606e15@85.90.207.152:23009?nonce=DkYUKZ2H&security=none&type=tcp#🇦🇲 Armenia | G-Core Labs S.A 79
+vless://21db6b31-6e8b-4307-9127-994c99606e15@85.90.207.152:23009?type=tcp&security=none&encryption=none&freeinternet=kizyak_vpn1781927566705#🇦🇲 Armenia | G-Core Labs S.A 80
+vless://21db6b31-6e8b-4307-9127-994c99606e15@85.90.207.152:23009?encryption=none&security=none&type=tcp&headerType=none#🇦🇲 Armenia | G-Core Labs S.A 81
+vless://21db6b31-6e8b-4307-9127-994c99606e15@85.90.207.152:23009?security=none&encryption=none&headerType=none&type=tcp#🇦🇲 Armenia | G-Core Labs S.A 82
+vless://21db6b31-6e8b-4307-9127-994c99606e15@85.90.207.152:23009?security=none&encryption=none&headerType=none&type=tcp#🇦🇲 Armenia | G-Core Labs S.A 83
+vless://21db6b31-6e8b-4307-9127-994c99606e15@85.90.207.152:23009?encryption=none&security=none&type=tcp&headerType=none#🇦🇲 Armenia | G-Core Labs S.A 84
+vless://21db6b31-6e8b-4307-9127-994c99606e15@85.90.207.152:23009?type=tcp&security=none&encryption=none&freeinternet=kizyak_vpn1782018084524#🇦🇲 Armenia | G-Core Labs S.A 85
+vless://21db6b31-6e8b-4307-9127-994c99606e15@85.90.207.152:23009?security=none&encryption=none&headerType=none&type=tcp#🇦🇲 Armenia | G-Core Labs S.A 86
+vless://5e1083b9-4d4f-50ef-93e7-6e966dfce1f9@armenia.cloudpath.live:443?type=tcp&security=reality&sni=microsoft.com&pbk=vv9bx4eIEheGr8urnE67apBG6O63GE_dGrCVOVT8ZwM&sid=820594b2&fp=chrome&mux=true&muxConcurrency=8&fragment=100-200,10-20,tlshello#🇦🇲 Armenia | Global Connectivity So... 1
+vless://5e1083b9-4d4f-50ef-93e7-6e966dfce1f9@armenia.cloudpath.live:443?type=tcp&security=reality&sni=microsoft.com&pbk=vv9bx4eIEheGr8urnE67apBG6O63GE_dGrCVOVT8ZwM&sid=820594b2&fp=chrome&mux=true&muxConcurrency=8&fragment=100-200,10-20,tlshello#🇦🇲 Armenia | Global Connectivity So... 2
+vless://5e1083b9-4d4f-50ef-93e7-6e966dfce1f9@armenia.cloudpath.live:443?type=tcp&security=reality&sni=microsoft.com&pbk=vv9bx4eIEheGr8urnE67apBG6O63GE_dGrCVOVT8ZwM&sid=820594b2&fp=chrome&mux=true&muxConcurrency=8&fragment=100-200,10-20,tlshello#🇦🇲 Armenia | Global Connectivity So... 3
+vless://5e1083b9-4d4f-50ef-93e7-6e966dfce1f9@armenia.cloudpath.live:443?type=tcp&security=reality&sni=microsoft.com&pbk=vv9bx4eIEheGr8urnE67apBG6O63GE_dGrCVOVT8ZwM&sid=820594b2&fp=chrome&mux=true&muxConcurrency=8&fragment=100-200,10-20,tlshello#🇦🇲 Armenia | Global Connectivity So... 4
