@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HpvCfh7kgQm9iaVZQTiDigJQgQXVzdHJpYQrimqEgMiDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+HpvCfh7kgQm9iaVZQTiDigJQgQXVzdHJpYQrimqEgMyDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 vless://27f914c5-bdcc-441a-9459-368daf552606@fh2.freechatup2.com:443?&security=reality&flow=xtls-rprx-vision&pbk=zCeRZCK7gCGFmPlOzBaTWHVkmysMFJlPqgDTPZRjRx0&sid=6ba85179e30d4fc2&fp=chrome&sni=m.media-amazon.com&type=tcp&headerType=none&host=fh2.freechatup2.com&path=%2F#🇦🇹 Austria | Baxet Group 1
-vless://1dda9d26-7c04-48a6-93b4-e30fe7a5da80@avstr.ardor-cloud.ru:444?flow=&fp=chrome&pbk=wgxjTlVuBIi8T-QRQ2tmmH57seIfKCdE2pBGNWXcOCo&security=reality&serviceName=web.max.ru&sid=8614956789abcdef&sni=web.max.ru&type=grpc#🇦🇹 Austria | Evolus IT Solutions GmbH 1
+vless://6f7597a8-f569-41d6-8f98-a4e59af35064@152.53.102.166:2052?encryption=none&host=&path=%2F&security=none&type=ws#🇦🇹 Austria | netcup GmbH 1
+vless://6f7597a8-f569-41d6-8f98-a4e59af35064@152.53.102.166:2052?encryption=none&host=&path=%2F&security=none&type=ws#🇦🇹 Austria | netcup GmbH 2
