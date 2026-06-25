@@ -4,4 +4,4 @@
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+HsvCfh6kgQm9iaVZQTiDigJQgTW9sZG92YQrimqEgMSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
-vless://1bd98268-1a22-4cf9-804d-b8a7650b1304@mold1.panel11.ru:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=mold1.panel11.ru&pbk=fJwiGHzBjOmu3cW05jKdiNmRVUt3caHkRq_tk_vuKEU&sid=79c1328ea1b50765&fp=firefox#%F0%9F%87%B2%F0%9F%87%A9+Moldova+%7C+Alexhost+SRL+1
+vless://1bd98268-1a22-4cf9-804d-b8a7650b1304@mold1.panel11.ru:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=mold1.panel11.ru&pbk=fJwiGHzBjOmu3cW05jKdiNmRVUt3caHkRq_tk_vuKEU&sid=79c1328ea1b50765&fp=firefox#%F0%9F%87%B2%F0%9F%87%A9%20Moldova%20%7C%20Alexhost%20SRL%201
