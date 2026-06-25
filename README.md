@@ -1,6 +1,6 @@
 ﻿<div align="center">
 
-<img src="https://raw.githubusercontent.com/bobivpn/assets/main/banner.png" alt="BobiVPN Checker" width="100%" />
+<img src="https://github.com/barantutu/vigilant-octo-spoon/raw/main/banner.png" alt="BobiVPN Checker" width="100%" />
 
 <h1>🦊 BobiVPN Checker</h1>
 
