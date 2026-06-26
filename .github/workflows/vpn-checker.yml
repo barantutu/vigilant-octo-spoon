@@ -23,7 +23,7 @@ jobs:
         run: |
           chmod +x scripts/vpn_checker_bin
           ./scripts/vpn_checker_bin \
-            --concurrency-stage1=1000 \
+            --skip-stage1 \
             --concurrency-stage2=50
 
       - name: Commit results
