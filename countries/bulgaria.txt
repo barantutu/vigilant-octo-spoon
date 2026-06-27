@@ -3,6 +3,5 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+Hp/Cfh6wgQm9iaVZQTiDigJQgQnVsZ2FyaWEK4pqhIDIg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@156.243.83.30:8880?path=/&host=vms.lifetime54.workers.dev&type=ws&security=&encryption=none#%F0%9F%87%A7%F0%9F%87%AC%20Bulgaria%20%7C%20Green%20Floid%201
-vless://44b52b3b-5979-4bfc-9d3e-fc8b8369ef91@bg.janusgate.org:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=nilJ07r1KZ0-KhmRNYeICXGhM9HeG9uxnRaqjYz3fWg&sid=13171b0dd8985179&sni=bg.janusgate.org&spx=/#%F0%9F%87%A7%F0%9F%87%AC%20Bulgaria%20%7C%20Julian%20Achter%201
+#announce: base64:8J+Hp/Cfh6wgQm9iaVZQTiDigJQgQnVsZ2FyaWEK4pqhIDEg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@176.124.223.30:8880?type=ws&host=vms.lifetime38.workers.dev#%F0%9F%87%A7%F0%9F%87%AC%20Bulgaria%20%7C%20Green%20Floid%201
