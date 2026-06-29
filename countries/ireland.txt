@@ -3,7 +3,5 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HrvCfh6ogQm9iaVZQTiDigJQgSXJlbGFuZArimqEgMyDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
-vless://538d4749-33ba-435f-8fbb-57d7f22f996b@176.34.140.103:31660?type=tcp&security=none&encryption=none&nonce=whYKwo1W#%F0%9F%87%AE%F0%9F%87%AA%20Ireland%20%7C%20Amazon.com%2C%201
-vless://538d4749-33ba-435f-8fbb-57d7f22f996b@176.34.140.103:31660?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AE%F0%9F%87%AA%20Ireland%20%7C%20Amazon.com%2C%202
-vless://538d4749-33ba-435f-8fbb-57d7f22f996b@176.34.140.103:31660?type=tcp&security=none&encryption=none#%F0%9F%87%AE%F0%9F%87%AA%20Ireland%20%7C%20Amazon.com%2C%203
+#announce: base64:8J+HrvCfh6ogQm9iaVZQTiDigJQgSXJlbGFuZArimqEgMSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.180.152.210:8881#%F0%9F%87%AE%F0%9F%87%AA%20Ireland%20%7C%20M247%20Europe%20SRL%201

@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+Hp/Cfh7cgQm9iaVZQTiDigJQgQnJhemlsCuKaoSAyINC/0YDQvtCy0LXRgNC10L3QvdGL0YUg0YHQtdGA0LLQtdGA0L7Qsg==
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpid2pOUGN3Z3o1KzFnQ3lpK3JCK25mcXVndzM4Qjd0cVZh@38.180.221.143:17283#%F0%9F%87%A7%F0%9F%87%B7%20Brazil%20%7C%20Scalaxy%20B.V.%201
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpid2pOUGN3Z3o1KzFnQ3lpK3JCK25mcXVndzM4Qjd0cVZh@38.180.221.145:17283#%F0%9F%87%A7%F0%9F%87%B7%20Brazil%20%7C%20Scalaxy%20B.V.%202
+#announce: base64:8J+Hp/Cfh7cgQm9iaVZQTiDigJQgQnJhemlsCuKaoSAzINC/0YDQvtCy0LXRgNC10L3QvdGL0YUg0YHQtdGA0LLQtdGA0L7Qsg==
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpid2pOUGN3Z3o1KzFnQ3lpK3JCK25mcXVndzM4Qjd0cVZh@38.180.221.145:17283#%F0%9F%87%A7%F0%9F%87%B7%20Brazil%20%7C%20Scalaxy%20B.V.%201
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpid2pOUGN3Z3o1KzFnQ3lpK3JCK25mcXVndzM4Qjd0cVZh@38.180.221.143:17283#%F0%9F%87%A7%F0%9F%87%B7%20Brazil%20%7C%20Scalaxy%20B.V.%202
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpid2pOUGN3Z3o1KzFnQ3lpK3JCK25mcXVndzM4Qjd0cVZh@38.180.221.147:17283#%F0%9F%87%A7%F0%9F%87%B7%20Brazil%20%7C%20Scalaxy%20B.V.%203
