@@ -4,6 +4,6 @@
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+HpvCfh7kgQm9iaVZQTiDigJQgQXVzdHJpYQrimqEgMyDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
-vless://6f7597a8-f569-41d6-8f98-a4e59af35064@152.53.102.166:2052?encryption=none&host=&path=%2F&security=none&type=ws#🇦🇹 Austria | netcup GmbH 1
-vless://6f7597a8-f569-41d6-8f98-a4e59af35064@152.53.102.166:2052?encryption=none&host=&path=%2F&security=none&type=ws#🇦🇹 Austria | netcup GmbH 2
-vless://6f7597a8-f569-41d6-8f98-a4e59af35064@152.53.102.166:2052?encryption=none&host=&path=%2F&security=none&type=ws#🇦🇹 Austria | netcup GmbH 3
+vless://0d608098-a5b6-0008-b394-b07c0c53d718@at.monkeyisland.xyz:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=at.monkeyisland.xyz&pbk=2AKBmK0PMf2zUMhRo1Ad-WNf_XoRk3AN-SGo6ZdhxA4&sid=83e9f5b24040c5f7&fp=firefox#%F0%9F%87%A6%F0%9F%87%B9%20Austria%20%7C%20Global%20Connectivity%20So...%201
+vless://ba302f7c-8ded-4ea6-99be-5abfd3ab6b3e@45.151.102.99:7443?type=grpc&security=reality&pbk=OMlQAFrCMZ3DX0xlnbEZiByLBFzpUE8XJHJsrBzLdlY&sid=2da4299da566b7&sni=maps.apple.com&serviceName=your-custom-path#%F0%9F%87%A6%F0%9F%87%B9%20Austria%20%7C%20Hosting%20Industry%201
+vless://ba302f7c-8ded-4ea6-99be-5abfd3ab6b3e@45.151.102.99:7443?fp=firefox&pbk=OMlQAFrCMZ3DX0xlnbEZiByLBFzpUE8XJHJsrBzLdlY&security=reality&serviceName=your-custom-path&sid=2da4299da566b7&sni=maps.apple.com&type=grpc#%F0%9F%87%A6%F0%9F%87%B9%20Austria%20%7C%20Hosting%20Industry%202

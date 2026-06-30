@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBUaGFpbGFuZArimqEgMyDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
-vless://ec5d6408-23f6-4a78-ad39-7237ff366469@38.54.33.177:28722?encryption=none&type=raw&headerType=none&security=none#%F0%9F%8C%8D%20Thailand%20%7C%20Kaopu%20Cloud%20HK%201
-vless://ec5d6408-23f6-4a78-ad39-7237ff366469@38.54.33.177:28722?type=tcp&security=none&encryption=none#%F0%9F%8C%8D%20Thailand%20%7C%20Kaopu%20Cloud%20HK%202
-vless://ec5d6408-23f6-4a78-ad39-7237ff366469@38.54.33.177:28722?type=raw#%F0%9F%8C%8D%20Thailand%20%7C%20Kaopu%20Cloud%20HK%203
+#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBUaGFpbGFuZArimqEgMiDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+vless://ec5d6408-23f6-4a78-ad39-7237ff366469@38.54.33.177:28722??burmalda=d6049ac3#%F0%9F%8C%8D%20Thailand%20%7C%20Kaopu%20Cloud%20HK%201
+vless://ec5d6408-23f6-4a78-ad39-7237ff366469@38.54.33.177:28722?encryption=none&type=raw&headerType=none&security=none#%F0%9F%8C%8D%20Thailand%20%7C%20Kaopu%20Cloud%20HK%202
