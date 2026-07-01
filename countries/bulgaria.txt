@@ -4,6 +4,6 @@
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+Hp/Cfh6wgQm9iaVZQTiDigJQgQnVsZ2FyaWEK4pqhIDMg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
-vless://4271212e-e90c-494a-8687-8c76ee65c189@sof.edgeptr.org:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.lovelive-anime.jp&fp=chrome&pbk=EtKRG8sxUJsdy-KwUOtYUNJnSn5VMx2sfKvvdpzg2X0&sid=b00bface11223344&type=tcp&headerType=none#%F0%9F%87%A7%F0%9F%87%AC%20Bulgaria%20%7C%20DA%20International%20Group%201
 ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY@38.244.132.14:5499#%F0%9F%87%A7%F0%9F%87%AC%20Bulgaria%20%7C%20M247%20Europe%20SRL%201
-vless://6429d1d5-de69-4758-9046-e72861a40cb9@bul.sempai.site:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=bul.sempai.site&fp=chrome&pbk=1khdgzPjogVxzOE8Z1JwjWrWw1PKOcApIHjvEF9Xwhs&type=tcp&headerType=none#%F0%9F%87%A7%F0%9F%87%AC%20Bulgaria%20%7C%20Netgrid%20Host%20LTD%201
+vless://6429d1d5-de69-4758-9046-e72861a40cb9@bul.sempai.site:443?flow=xtls-rprx-vision&fp=chrome&headertype=none&pbk=1khdgzPjogVxzOE8Z1JwjWrWw1PKOcApIHjvEF9Xwhs&security=reality&sni=bul.sempai.site&type=tcp#%F0%9F%87%A7%F0%9F%87%AC%20Bulgaria%20%7C%20Netgrid%20Host%20LTD%201
+vless://6429d1d5-de69-4758-9046-e72861a40cb9@bul.sempai.site:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=bul.sempai.site&fp=chrome&pbk=1khdgzPjogVxzOE8Z1JwjWrWw1PKOcApIHjvEF9Xwhs&type=tcp&headerType=none#%F0%9F%87%A7%F0%9F%87%AC%20Bulgaria%20%7C%20Netgrid%20Host%20LTD%202
